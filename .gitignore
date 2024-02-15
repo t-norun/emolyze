@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Firebase Admin SDKの秘密鍵ファイル
+*.json
+
+# Firebase Admin SDKの秘密鍵ファイル（具体的なファイル名で指定）
+src/config/my-key.json
+
+# 環境変数
+.env
+
